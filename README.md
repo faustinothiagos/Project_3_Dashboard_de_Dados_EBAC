@@ -7,7 +7,7 @@
 
 # Enunciado:
 
-- No projeto 3 do módulo de Data, os alunos poderam escolher sobre com qual conjunto de dados trabalhar referente a coronavirus SARS-CoV-2 para criação de um Dashboard de dados usando o Google Date Studio.
+- No projeto 3 do módulo de Data, os alunos poderam escolher sobre com qual conjunto de dados trabalhar referente a coronavirus SARS-CoV-2 para criação de um Dashboard de dados usando o Google Data Studio.
 
 # Etapas:
 
@@ -16,4 +16,4 @@
 - Pacotes nativos do python como Jhon, os, etc..
 - Será feita a extração de dados, Wrangling da estrutura, exploração do shema, etc..
 - Trasnformação o enriquecimento, controle de qualidade de dados.
-- Por fim será feito o carregamento dos dados em um arquivo CSV para ser carregado no google date studio.
+- Por fim será feito o carregamento dos dados em um arquivo CSV para ser carregado no google data studio.
