@@ -11,7 +11,7 @@
 
 # Etapas:
 
-- Primeiro será feita uma análise exploratoria dos dados retirados Kaggle procurando explorar ao maxímo esses dados.
+- Primeiro será feita uma análise exploratoria dos dados retirados do Kaggle procurando explorar ao maxímo esses dados.
 - Para isso usaremos bibliotecas como Seaborn, pandas e numpy de terceiros.
 - Pacotes nativos do python como Jhon, os, etc..
 - Será feita a extração de dados, Wrangling da estrutura, exploração do shema, etc..
