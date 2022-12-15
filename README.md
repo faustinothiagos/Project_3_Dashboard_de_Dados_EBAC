@@ -2,7 +2,7 @@
 3° Projeto do curso profissão Analista de dados-EBAC.
 
 <div align="center">
-<img src="file:///home/thiago/Imagens/Vero-Covid-19-24h-hi_i034-rk.jpg" width="400px" />
+<img src="https://user-images.githubusercontent.com/97195240/207979725-80fd0f2e-a623-46cf-8a79-a1f74e06f950.png" width="600px" />
 </div>
 
 # Enunciado:
