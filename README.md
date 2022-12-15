@@ -17,3 +17,5 @@
 - Será feita a extração de dados, Wrangling da estrutura, exploração do shema, etc..
 - Trasnformação o enriquecimento, controle de qualidade de dados.
 - Por fim será feito o carregamento dos dados em um arquivo CSV para ser carregado no google data studio.
+
+- [Acesso rápido ao Dataset](https://github.com/faustinothiagos/Projeto_3_Dashboard_de_dados_EBAC/tree/main/DataSet)
