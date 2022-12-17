@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/97195240/207979725-80fd0f2e-a623-46cf-8a79-a1f74e06f950.png" width="600px" />
 </div>
 
-# Enunciado:
+# Descrição:
 
 - No projeto 3 do módulo de Data, os alunos poderam escolher sobre com qual conjunto de dados trabalhar referente a coronavirus SARS-CoV-2 para criação de um Dashboard de dados usando o Google Data Studio.
 
