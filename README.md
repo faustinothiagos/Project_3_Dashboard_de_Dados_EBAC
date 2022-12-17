@@ -1,4 +1,4 @@
-# Projeto_3_Dashboard_de_dados
+# Projeto-3-Dashboard-de-dados
 3° Projeto do curso profissão Analista de dados-EBAC
 
 <div align="center">
