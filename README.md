@@ -1,5 +1,5 @@
-# Projeto_3_Dashboard_de_dados_EBAC
-3° Projeto do curso profissão Analista de dados-EBAC.
+# Projeto_3_Dashboard_de_dados
+3° Projeto do curso profissão Analista de dados-EBAC
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/97195240/207979725-80fd0f2e-a623-46cf-8a79-a1f74e06f950.png" width="600px" />
@@ -16,6 +16,7 @@
 - Pacotes nativos do python como Jhon, os, etc..
 - Será feita a extração de dados, Wrangling da estrutura, exploração do shema, etc..
 - Trasnformação o enriquecimento, controle de qualidade de dados.
-- Por fim será feito o carregamento dos dados em um arquivo CSV para ser carregado no google data studio.
+- Será feito o carregamento dos dados em um arquivo CSV para ser carregado no google data studio.
+- Por fim será criado um Dashboard para visualização dos EDA & KPIs.
 
 - [Acesso rápido ao Dataset](https://github.com/faustinothiagos/Projeto_3_Dashboard_de_dados_EBAC/tree/main/DataSet)
