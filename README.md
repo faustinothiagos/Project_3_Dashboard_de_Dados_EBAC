@@ -17,6 +17,6 @@
 - Será feita a extração de dados, Wrangling da estrutura, exploração do shema, etc..
 - Trasnformação o enriquecimento, controle de qualidade de dados.
 - Será feito o carregamento dos dados em um arquivo CSV para ser carregado no google data studio.
-- Por fim será criado um Dashboard para visualização dos EDA & KPIs.
+- Por fim será criado um Dashboard para visualização das métricas de desempenho (KPIs).
 
 - [Acesso rápido ao Dataset](https://github.com/faustinothiagos/Projeto_3_Dashboard_de_dados_EBAC/tree/main/DataSet)
